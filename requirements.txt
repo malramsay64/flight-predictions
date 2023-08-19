@@ -1,0 +1,8 @@
+jupyterlab
+scipy
+pandas
+requests
+numpy
+altair
+matplotlib
+pytz
